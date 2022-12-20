@@ -36,7 +36,7 @@
 - 编写代码，调用本地代理服务器实现的GRPC接口，接收行情消息推送
 - 注意：下载txtool.exe推送工具，部分杀毒软件如360可能会误报风险提示，请关掉360杀毒软件或安装其他杀毒软件，或将txtool.exe添加为信任文件即可。
 
-行情工具[请点击下载](https://github.com/Level2API/l2-push-python/tree/master/cli)，目录说明：
+行情工具[请点击下载](https://gitee.com/l2gogogo/l2-push-python/tree/master/cli)，目录说明：
 
 | 名称       | 说明               |
 | ---------- | ------------------ |
